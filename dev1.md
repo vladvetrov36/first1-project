@@ -1,2 +1,1 @@
-write dev1
-add2 write
+rewrite 3
